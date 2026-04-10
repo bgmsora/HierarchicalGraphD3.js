@@ -1,3 +1,2 @@
-# MuestraD3
-Grafica desarrollada en d3.js con multicapas
-Hierarchical Data
+# Hierarchical graph
+Graphic developed in d3.js with multiple layers
